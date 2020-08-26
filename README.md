@@ -1,3 +1,3 @@
 # tidytuesday
 
-![change me](https://github.com/henrywrover/tidytuesday/tree/master/Plots/chopped_ratings.png?raw=true "Title")
+![chopped](https://raw.githubusercontent.com/henrywrover/tidytuesday/master/Plots/chopped_ratings.png "Title")
