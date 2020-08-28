@@ -6,6 +6,10 @@ Welcome! Here is my repo for posting tidytuesday content. Each week I'll be shar
 
 ---
 
+![dynasties](https://raw.githubusercontent.com/henrywrover/tidytuesday/master/Plots/dynasties.png "Dynasties")
+
+---
+
 ![plants](https://raw.githubusercontent.com/henrywrover/tidytuesday/master/Plots/myplot.png "Plants")
 
 ---
