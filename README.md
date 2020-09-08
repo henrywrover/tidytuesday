@@ -2,6 +2,11 @@
 
 Welcome! Here is my repo for posting tidytuesday content. Each week I'll be sharing the code and final plots. Some examples of my work can be found below.
 
+---
+![friends](https://github.com/henrywrover/tidytuesday/blob/master/Plots/friends_two.png)
+
+---
+
 ![chopped](https://raw.githubusercontent.com/henrywrover/tidytuesday/master/Plots/chopped_ratings.png "Chopped")
 
 ---
