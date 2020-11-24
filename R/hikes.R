@@ -4,22 +4,7 @@ library(ggdark)
 hikes <- readr::read_rds(url('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-11-24/hike_data.rds')) %>%
   mutate(highpoint = as.numeric(highpoint),
          rating = as.numeric(rating),
-         gain = as.numeric(gain),
-         top_rated = ifelse(rating == 5, "Yes", "No"),
-         round_rating = round(rating, 0)) %>%
-  separate(location, into = "location", sep = " -- ")
-
-hikes %>%
-  ggplot(aes(x = highpoint)) +
-  geom_histogram(aes(fill = factor(top_rated, levels = c("Yes", "No")))) +
-  scale_fill_manual(values = c("white", "#394d5f")) +
-  labs(title = "Hiking in Washington",
-       subtitle = "",
-       fill = "5 Stars?") +
-  dark_theme_minimal() +
-  theme(panel.grid = element_blank())
-
-
+         round_rating = round(rating, 0))
 
 hikes %>%
   ggplot(aes(x = highpoint)) +
@@ -47,5 +32,4 @@ hikes %>%
         legend.title = element_text(size = 6),
         legend.text = element_text(size = 6),
         legend.key.size = unit(0.25, "cm"),
-        plot.caption = element_text(size = 4)) +
-  ggsave(filename = "hikes.png", type ="cairo-png", height = 4, width = 5, dpi = 240)
+        plot.caption = element_text(size = 4))
