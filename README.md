@@ -2,7 +2,8 @@
 
 Welcome! Here is my repo for posting tidytuesday content. Each week I'll be sharing the code and final plots. Some examples of my work can be found below.
 
-[!post](https://raw.githubusercontent.com/henrywrover/tidytuesday/master/Plots/post_offices.gif)
+---
+![post](https://raw.githubusercontent.com/henrywrover/tidytuesday/master/Plots/post_offices.gif)
 
 ---
 
