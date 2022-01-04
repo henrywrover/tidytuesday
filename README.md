@@ -25,9 +25,3 @@ Welcome! Here is my repo for posting tidytuesday content. Each week I'll be shar
 ---
 
 ![chopped](https://raw.githubusercontent.com/henrywrover/tidytuesday/master/Plots/chopped_ratings.png "Chopped")
-
----
-
-![astronauts](https://raw.githubusercontent.com/henrywrover/tidytuesday/master/Plots/ages_all_missions.png "Astronauts")
-
----
