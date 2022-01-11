@@ -5,6 +5,10 @@ Welcome! Here is my repo for posting tidytuesday content. Each week I'll be shar
 ![norse_plot](https://raw.githubusercontent.com/henrywrover/tidytuesday/master/Plots/norse_plot_detailed_png.png)
 
 ---
+
+![bees](https://raw.githubusercontent.com/henrywrover/tidytuesday/master/Plots/bee_plot.png)
+
+---
 ![post_offices](https://github.com/henrywrover/tidytuesday/blob/master/Plots/post_offices.png)
 
 ---
@@ -13,10 +17,6 @@ Welcome! Here is my repo for posting tidytuesday content. Each week I'll be shar
 ---
 
 ![IKEA](https://raw.githubusercontent.com/henrywrover/tidytuesday/master/Plots/ikea.png)
-
----
-
-![beer](https://github.com/henrywrover/tidytuesday/blob/master/Plots/beer_cities.png)
 
 ---
 
